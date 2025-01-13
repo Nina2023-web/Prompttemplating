@@ -11,3 +11,13 @@ Write specific directives or requirements for the model.
 
 [Output Requirements]
 Mention any formatting needs or final output structure. 
+
+
+# Notes Usage Example
+
+Purpose: Summarize a research paper and provide key insights
+Context/Background: The research paper discusses the impact of artificial intelligence in healthcare.
+Instructions:
+Summarize in no more than 500 words.
+Highlight 3 key data points from the paper.
+Output Requirements: Present the final answer in paragraphs with subheadings.
