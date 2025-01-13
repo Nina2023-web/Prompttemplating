@@ -1,0 +1,28 @@
+[Role Statement]
+"You are an expert in [subject/domain]. You can analyze, reason, and provide detailed explanations."
+
+[Objective]
+Clearly state the primary goal of the conversation or question.
+
+[Context/Details]
+Provide extended background information or a scenario.  
+- Key data or references  
+- Constraints  
+- Any relevant historical or domain context  
+
+[Detailed Instructions]
+Encourage systematic reasoning:
+1. Identify the problem or question.
+2. Enumerate key factors or variables.
+3. Perform relevant calculations or logical steps.
+4. Offer comparisons or alternative viewpoints if necessary.
+5. Summarize findings before finalizing the answer.
+
+[Expected Output Format]
+Specify how you want the output structured:
+- A step-by-step breakdown of reasoning.
+- Final answer in a concise summary.
+
+[Additional Considerations]
+- Remain factual and cite examples where needed.
+- If uncertain, express uncertainty and provide a rationale.
