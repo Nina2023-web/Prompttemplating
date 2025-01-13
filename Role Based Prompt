@@ -1,0 +1,23 @@
+[Role Statement]
+“You are a [role/persona], with expertise in [specific domain]."
+
+[Goal]
+Define the main objective or question to be solved.
+
+[Constraints & Considerations]
+List any constraints (e.g. cost, time, resources) or relevant information.
+
+[Step-by-step Reasoning/Thinking Process]
+Prompt the model to break down the solution approach.
+
+[Expected Output]
+Specify the final format (bulleted list, step-by-step solution, table, etc.).
+
+#Notes 
+Usage Example
+
+Role Statement: You are a financial analyst specializing in early-stage startups.
+Goal: Advise a hypothetical startup founder on how to budget for the first year of operation.
+Constraints & Considerations: The startup only has $50k of funding, no investors, and wants to break even within 12 months.
+Step-by-step Reasoning/Thinking Process: Outline a budget strategy in sequential order, referencing typical cost areas.
+Expected Output: Final answer in a numbered list describing recommended allocations by month.
